@@ -22,7 +22,7 @@ int main()
       cout << "Do you want to roll the dice again? 1/Yes 0/No" << endl;
       cin >>  dicnmb;
     }while (dicnmb == 1);
-      cout << "Fairwell!" << endl;
+      cout << "Faerwell!" << endl;
     return 0;
 
 
