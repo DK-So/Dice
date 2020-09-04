@@ -9,8 +9,9 @@ git clone https://github.com/DK-So/Dice
 ```
 cd uri 
 ```
-dice 
 ```
+dice 
+
 
 Annotation:
 Only work in Windwos Terminal! 
