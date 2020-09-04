@@ -12,7 +12,7 @@ cd uri
 ```
 dice 
 
-
+```
 Annotation:
 Only work in Windwos Terminal! 
 https://github.com/microsoft/terminal
