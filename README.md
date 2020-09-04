@@ -5,7 +5,7 @@ A small simulation to creat a dice number (1 - 6).
 
 ```
 git clone https://github.com/DK-So/Dice
-
+```
 ```
 cd uri 
 ```
