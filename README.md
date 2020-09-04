@@ -11,7 +11,6 @@ cd uri
 ```
 ```
 dice 
-
 ```
 Annotation:
 Only work in Windwos Terminal! 
